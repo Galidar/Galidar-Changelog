@@ -1,0 +1,1 @@
+# Galidar-Changelog
